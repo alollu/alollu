@@ -2,9 +2,6 @@
 <h3 align="center">Soy una profesional con más de 20 años de experiencia en el sector inmobiliario, recientemente enfocada en la analítica de datos y la automatización de procesos.</h3>
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-tropic"><img src="https://github-profile-tropico.vercel.app/?username=alollu" 
-
 - 🔭 En este momento estoy estudiando un **Máster Data Science en Nodd3r**
 
 - 🌱 Actualmente estoy realizando un **Máster Data Science en Nodd3r**
