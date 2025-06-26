@@ -12,6 +12,8 @@
 
 - 📫 Puedes contactarme a través de mi e-mail **stefania.caprioli.carzolio@gmail.com**
 
+  💬 ¿Tienes un proyecto o idea? Estaré encantada de escuchar. No dudes en escribirme si crees que podemos colaborar.
+
 - ⚡ Curiosidades sobre mi; **Provengo del mundo jurídico del sector inmobiliario, con ganas de realizar proyectos en otros ámbitos profesionales.**
 
 <h3 align="left">Conéctame:</h3>
