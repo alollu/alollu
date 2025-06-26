@@ -2,6 +2,7 @@
 <h3 align="center">Soy una profesional con más de 20 años de experiencia en el sector inmobiliario, recientemente enfocada en la analítica de datos y la automatización de procesos.</h3>
 
 
+
 - 🔭 En este momento estoy estudiando un **Máster Data Science en Nodd3r**
 
 - 🌱 Actualmente estoy realizando un **Máster Data Science en Nodd3r**
