@@ -8,7 +8,7 @@
 
 - 🌱 Actualmente estoy realizando un **Máster Data Science en Nodd3r**
 
-- 👯 Busco colaborar en **proyectos de ciencia de datos y machine learning**
+- 🤝 Busco colaborar con gente en **proyectos de ciencia de datos y machine learning**
 
 - 📫 Puedes contactarme a través de mi e-mail **stefania.caprioli.carzolio@gmail.com**
 
