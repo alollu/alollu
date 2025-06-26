@@ -4,9 +4,9 @@
 
 
 
-- 🧠 En este momento estoy estudiando un **Máster Data Science en Nodd3r**
+- 🧠 En este momento estoy estudiando un **Máster Data Science en Nodd3r(https://nodd3r.com/dashboard/)**
 
-- 🌱 Actualmente estoy realizando un **Máster Data Science en Nodd3r**
+- 🌱 Actualmente estoy realizando el Máster **Road to Data Science de Nodd3r**
 
 - 🤝 Estoy buscando colaborar con gente en **proyectos de ciencia de datos y machine learning**
 
