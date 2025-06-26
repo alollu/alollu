@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Stefania</h1>
-<h3 align="center">Soy una profesional con más de 20 años de experiencia en el sector inmobiliario, recientemente enfocada en la analítica de datos y la automatización de procesos.</h3>
+<h3 align="center">Analista de Datos Junior con más de 20 años de experiencia Experiencia en Real Estate + Business Intelligence.</h3>
 
 
 
