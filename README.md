@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo Stefania</h1>
 <h3 align="center">Soy una profesional con más de 20 años de experiencia en el sector inmobiliario, recientemente enfocada en la analítica de datos y la automatización de procesos.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alollu&label=Profile%20views&color=0e75b6&style=flat" alt="alollu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alollu&label=Profile%20views&color=0e75b6&style=flat" 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-tropic"><img src="https://github-profile-tropico.vercel.app/?username=alollu" alt="alollu" /></a> </p>
 
@@ -25,4 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=alollu&show_icons=true&locale=es" alt="alollu" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=alollu&show_icons=true&locale=es" 
