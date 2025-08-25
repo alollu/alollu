@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, me llamo Stefania</h1>
 <h3 align="center">🎯 Data Scientist | Power BI | SQL | Python
-<h3 align="center">Data Scientist Junior, profesional con más de 20 años de experiencia en Real Estate + Business Intelligence. Abierta a nuevas oportunidades.</h3>
+<h3 align="center">Data Scientist Junior. En mi vida anterior profesional con más de 20 años de experiencia en Real Estate + Business Intelligence. Abierta a nuevas oportunidades.</h3>
 
 
 
@@ -12,7 +12,14 @@
 
 -  💬 ¿Tienes un proyecto o idea? Estaré encantada de escuchar. No dudes en escribirme si crees que podemos colaborar.
 
-- ⚡ Curiosidades sobre mi; **Provengo del mundo jurídico del sector inmobiliario, con ganas de realizar proyectos en otros ámbitos profesionales.**
+
+- 🛠️ Skills:
+*Ciencia de datos: Python
+*Análisis de Datos: SQL, Power BI, Excel avanzado, Google sheets
+*Especialidades: visualización, automatización, prompt engineering, arquitectura de datos
+*Herramientas: Google colab, Github, Outlook 365
+*Capacidad de adaptación demostrada en reconversión tecnológica.
+*Enfoque de aprendizaje continuo y resiliencia profesional.
 
 <h3 align="left">Conéctame:</h3>
 <p align="left">
@@ -27,3 +34,7 @@ rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/m
 <p><img align="left" src="https://github-readme-stats.vercel.
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=alollu&show_icons=true&locale=es" 
+
+- ⚡ Curiosidades sobre mi;
+- Amo el mate y el café
+- **Provengo del mundo jurídico del sector inmobiliario, con ganas de realizar proyectos en otros ámbitos profesionales.**
