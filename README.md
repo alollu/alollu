@@ -16,9 +16,7 @@
 
 <h3 align="left">🛠️ Skills:</h3>
 
-- 🧠 Ciencia de datos: Python **
-- Ciencia de datos: Python **
-- 🤝 
+-  Ciencia de datos: Python 
 -  Análisis de Datos: SQL, Power BI, Excel avanzado, Google sheets**
 -  Especialidades: visualización, automatización, prompt engineering, arquitectura de datos
 -  Herramientas: Google colab, Github, Outlook 365
