@@ -13,16 +13,12 @@
 -  💬 ¿Tienes un proyecto o idea? Estaré encantada de escuchar. No dudes en escribirme si crees que podemos colaborar.
 
 
+
 <h3 align="left">🛠️ Skills:</h3>
+
 - 🧠 Ciencia de datos: Python **
 - Ciencia de datos: Python **
-
-- 🤝 Estoy buscando colaborar con gente en **proyectos de ciencia de datos y machine learning**
-
-- 📫 Puedes contactarme a través de mi e-mail **stefania.caprioli.carzolio@gmail.com**
-
--  💬 ¿Tienes un proyecto o idea? Estaré encantada de escuchar. No dudes en escribirme si crees que podemos colaborar.
--  
+- 🤝 
 -  Análisis de Datos: SQL, Power BI, Excel avanzado, Google sheets**
 -  Especialidades: visualización, automatización, prompt engineering, arquitectura de datos
 -  Herramientas: Google colab, Github, Outlook 365
