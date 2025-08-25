@@ -13,13 +13,14 @@
 -  💬 ¿Tienes un proyecto o idea? Estaré encantada de escuchar. No dudes en escribirme si crees que podemos colaborar.
 
 
-- 🛠️ Skills:
-*Ciencia de datos: Python
-*Análisis de Datos: SQL, Power BI, Excel avanzado, Google sheets
-*Especialidades: visualización, automatización, prompt engineering, arquitectura de datos
-*Herramientas: Google colab, Github, Outlook 365
-*Capacidad de adaptación demostrada en reconversión tecnológica.
-*Enfoque de aprendizaje continuo y resiliencia profesional.
+<h3 align="left">🛠️ Skills:</h3>
+-  Ciencia de datos: Python
+-  Análisis de Datos: SQL, Power BI, Excel avanzado, Google sheets
+-  Especialidades: visualización, automatización, prompt engineering, arquitectura de datos
+-  Herramientas: Google colab, Github, Outlook 365
+-  Capacidad de adaptación demostrada en reconversión tecnológica.
+-  Enfoque de aprendizaje continuo y resiliencia profesional.
+
 
 <h3 align="left">Conéctame:</h3>
 <p align="left">
