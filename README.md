@@ -39,8 +39,12 @@ rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/m
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=alollu&show_icons=true&locale=es" 
 
 
-<h3 align="left">⚡ Curiosidades sobre mi:</h3>
+
 <h3 align="left">⚡ Curiosidades sobre mi:</h3>
 <p align="left">
-- Amo el mate y el café
+  
+
+-  Amo el mate y el café 
+-  Análisis de Datos: SQL, Power BI, Excel avanzado, Google sheets
+- 
 - **Provengo del mundo jurídico del sector inmobiliario, con ganas de realizar proyectos en otros ámbitos profesionales.**
