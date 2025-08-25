@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, me llamo Stefania</h1>
 <h3 align="center">🎯 Data Scientist | Power BI | SQL | Python
-<h3 align="center">Data Scientist Junior. En mi vida anterior profesional con más de 20 años de experiencia en Real Estate + Business Intelligence. Abierta a nuevas oportunidades.</h3>
+<h3 align="left">Data Scientist Junior. En mi vida anterior profesional con más de 20 años de experiencia en Real Estate + Business Intelligence. Abierta a nuevas oportunidades.</h3>
 
 
 
@@ -14,6 +14,7 @@
 
 
 <h3 align="left">🛠️ Skills:</h3>
+- 🧠 Ciencia de datos: Python **
 - Ciencia de datos: Python **
 
 - 🤝 Estoy buscando colaborar con gente en **proyectos de ciencia de datos y machine learning**
