@@ -40,11 +40,13 @@ rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/m
 
 
 
+
+
+<h3 align="left">⚡ Curiosidades sobre mi:</h3>
 <h3 align="left">⚡ Curiosidades sobre mi:</h3>
 <p align="left">
   
 
--  Amo el mate y el café 
--  Análisis de Datos: SQL, Power BI, Excel avanzado, Google sheets
-- 
-- **Provengo del mundo jurídico del sector inmobiliario, con ganas de realizar proyectos en otros ámbitos profesionales.**
+-  Amo el mate y el café
+-  Provengo del mundo jurídico del sector inmobiliario, con ganas de realizar proyectos en otros ámbitos profesionales 
+
