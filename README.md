@@ -42,7 +42,7 @@ rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/m
 
 
 
-<h3 align="left">⚡ Curiosidades sobre mi:</h3>
+
 
 <h3 align="left">⚡ Curiosidades sobre mi:</h3>
 <p align="left">
