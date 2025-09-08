@@ -83,5 +83,5 @@ Abierta a nuevas oportunidades.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alollu&show_icons=true&locale=es" alt="alollu GitHub stats" />
-</p>tos en otros ámbitos profesionales 
+
 
