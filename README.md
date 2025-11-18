@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel"/>
   <img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=flat&logo=microsoft&logoColor=white" alt="Microsoft"/>
   <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat&logo=openai&logoColor=white" alt="ChatGPT"/>
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white" alt="Databricks"/>
+  <img src="https://img.shields.io/badge/Databricks-EF3A24?style=flat&logo=databricks&logoColor=white" alt="Databricks"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" alt="Grafana"/>
 </p>
 
