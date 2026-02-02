@@ -2,10 +2,11 @@
 <h3 align="center">🎯 Data Scientist | Power BI | SQL | Python</h3>
 
 <p align="center">
-   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI"/>
+ 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=flat&logo=microsoft&logoColor=white" alt="Microsoft"/>
   <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat&logo=openai&logoColor=white" alt="ChatGPT"/>
   <img src="https://img.shields.io/badge/Databricks-EF3A24?style=flat&logo=databricks&logoColor=white" alt="Databricks"/>
@@ -16,13 +17,13 @@
 
 <h3 align="center">Data Scientist Junior</h3>
 <p align="center">
-En mi vida anterior profesional con más de 20 años de experiencia en Real Estate + Business Intelligence.<br>
+Data Scientist Jr en Satec. En mi vida anterior fui profesional de Real Estate + Business Intelligence con más de 20 años de experiencia.<br>
 Abierta a nuevas oportunidades.
 </p>
 
 ---
 
-- 🧠 Actualmente estudio un **Máster en Data Science en [Nodd3r](https://nodd3r.com)**
+- 🧠 He finalizado en 2025 un **Máster en Data Science en [Nodd3r](https://nodd3r.com)**
 - 🤝 Busco colaborar en **proyectos de ciencia de datos y machine learning**
 - 📫 Contacto: **stefania.caprioli.carzolio@gmail.com**
 - 💬 ¿Tienes un proyecto o idea? ¡Me encantaría escucharlo! No dudes en escribirme para colaborar.
